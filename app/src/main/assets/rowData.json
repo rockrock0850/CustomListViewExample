@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Mad Max: Fury Road",
+    "subTitle": "Action & Adventure",
+    "imgName": "download_0",
+    "showButton": true
+  },
+  {
+    "title": "Inside Out",
+    "subTitle": "Animation, Kids & Family",
+    "imgName": "download_1",
+    "showButton": false
+  },
+  {
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "subTitle": "Action",
+    "imgName": "download_2",
+    "showButton": true
+  },
+  {
+    "title": "Shaun the Sheep",
+    "subTitle": "Animation",
+    "imgName": "download_3",
+    "showButton": true
+  },
+  {
+    "title": "The Martian",
+    "subTitle": "Science Fiction & Fantasy",
+    "imgName": "download_4",
+    "showButton": true
+  },
+  {
+    "title": "Mission: Impossible Rogue Nation",
+    "subTitle": "Action",
+    "imgName": "download_5",
+    "showButton": false
+  },
+  {
+    "title": "Up",
+    "subTitle": "Animation",
+    "imgName": "download_6",
+    "showButton": true
+  },
+  {
+    "title": "Star Trek",
+    "subTitle": "Science Fiction",
+    "imgName": "download_8",
+    "showButton": false
+  },
+  {
+    "title": "The LEGO Movie",
+    "subTitle": "Animation",
+    "imgName": "download_9",
+    "showButton": true
+  },
+  {
+    "title": "Iron Man",
+    "subTitle": "Action & Adventure",
+    "imgName": "download_3",
+    "showButton": true
+  },
+  {
+    "title": "Aliens",
+    "subTitle": "Science Fiction",
+    "imgName": "download_8",
+    "showButton": true
+  },
+  {
+    "title": "Chicken Run",
+    "subTitle": "Animation",
+    "imgName": "download_1",
+    "showButton": false
+  },
+  {
+    "title": "Back to the Future",
+    "subTitle": "Science Fiction",
+    "imgName": "download_0",
+    "showButton": true
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "subTitle": "Action & Adventure",
+    "imgName": "download_9",
+    "showButton": true
+  },
+  {
+    "title": "Goldfinger",
+    "subTitle": "Action & Adventure",
+    "imgName": "download_4",
+    "showButton": true
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "subTitle": "Science Fiction & Fantasy",
+    "imgName": "download_6",
+    "showButton": false
+  }
+]
